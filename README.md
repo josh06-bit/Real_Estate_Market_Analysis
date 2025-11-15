@@ -6,7 +6,7 @@ The goal of this analysis is to identify which areas and property types are perf
 The company noticed inconsistent sales performance across property types and locations.
 They wanted to answer:
 
-“Where should we invest and market more aggressively next quarter?”
+## “Where should we invest and market more aggressively next quarter?”
 
 ### 🎯 Objectives
 
