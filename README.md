@@ -26,44 +26,52 @@ They wanted to answer:
 
 <img width="896" height="370" alt="image" src="https://github.com/user-attachments/assets/b7e3e271-9a34-429b-8349-7a4f03aaa63d" />
 
+## 3. For Sale vs Sold Ratio per City
+**Pasig** and **Parañaque** show both high inventory and strong sales, meaning properties move consistently — indicating strong demand and healthy market turnover in these areas.
+
+<img width="1036" height="390" alt="image" src="https://github.com/user-attachments/assets/773c2b38-c064-4dcb-ad54-a22bd18ef218" />
+
+## 4. Which property type performs best per area?
+**Houses** are the top sellers in most cities, especially in Parañaque and Quezon City. Meanwhile, apartments tend to do best in Pasig and Mandaluyong. Overall, each area shows its own preference, but houses clearly lead the way in most locations.
+
+<img width="575" height="375" alt="image" src="https://github.com/user-attachments/assets/2f7c5708-366f-46a3-857a-aed327e654e7" />
+
+## 5. Monthly Sales Trend
+Sales were strongest from **September** to **October**, with September hitting the peak. The slowest months were March and December, showing clear dips in performance.
+
+<img width="812" height="336" alt="image" src="https://github.com/user-attachments/assets/0dc28aa6-c30a-4593-8ccd-f7c7961c3bd7" />
+
+## 💼 Recommendation: Where to Invest and Market
+
+### 1️⃣ Priority Locations & Property Types
 
 
-| Question                                           | Key Insight                                                           | Interpretation                                                                   |
-| -------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **1. Which property types sell the most?**         | Houses and Condos make up nearly 70% of all sold properties.          | High buyer demand — core products to prioritize.                                 |
-| **2. Which cities have the highest sales?**        | Quezon City and Makati lead in total sold units.                      | Indicates strong market activity and established buyer interest.                 |
-| **3. For Sale vs Sold Ratio per City**             | Makati and Taguig have higher Sold-to-Listing ratios.                 | These areas have fast-moving inventories — good ROI potential.                   |
-| **4. Which property type performs best per area?** | Condos dominate in Makati and Taguig; Houses dominate in Quezon City. | Market preferences vary by city — urban vs. suburban demand split.               |
-| **5. Monthly Sales Trend**                         | Sales peak around March and July.                                     | Mid-year buyer interest is stronger — marketing should align with these periods. |
+| Area                   | Property Type   | Priority | Recommended Action                   |
+| ---------------------- | --------------- | -------- | ------------------------------------ |
+| **Makati**             | Condo           | 🔥 High  | Boost ads & grow listings            |
+| **Taguig**             | Condo           | 🔥 High  | Expand inventory & premium marketing |
+| **Quezon City**        | House           | 🔥 High  | Highlight family-centric projects    |
+| **Pasig**              | House/Townhouse | ⚡ Medium | Maintain presence, test promos       |
+| **Parañaque / Manila** | Mixed           | ⚙ Low    | Reassess pricing or reposition       |
 
 
-💼 Recommendation: Where to Invest and Market
+### 2️⃣ Marketing Timing
 
-1️⃣ Focus Development and Marketing on:
+- Run major campaigns from February to July, when buying activity is highest.
+- Launch promo pushes before March to capture early-season buyers.
+- Use online listings, virtual tours, and open-house events to maximize reach.
 
-Condos in Makati and Taguig
-→ High absorption rate and consistent sales.
-→ Ideal for mid- to high-end buyers and investors.
+### 3️⃣ Recommended Resource Allocation
+| Area               | Property Type     | Priority | Recommended Action                         |
+|--------------------|-------------------|----------|---------------------------------------------|
+| Makati             | Condo             | 🔥 High  | Boost ads and increase listings             |
+| Taguig             | Condo             | 🔥 High  | Expand inventory and apply premium marketing |
+| Quezon City        | House             | 🔥 High  | Highlight family-centric projects            |
+| Pasig              | House/Townhouse   | ⚡ Medium| Maintain presence; test targeted promos      |
+| Parañaque / Manila | Mixed             | Low      | Reassess pricing or reposition strategy      |
 
-Houses in Quezon City and Pasig
-→ Large family market and affordable land prices.
-→ Focus on mid-range developments with flexible payment options.
 
-2️⃣ Marketing Timing:
+## 📊 Final Answer
 
-Concentrate campaigns in February–July, aligning with peak demand cycles.
+**Invest and market more aggressively in **Condos in Makati and Taguig and Houses in Quezon City**, as these areas show the **strongest demand, fastest sales movement**, and **highest buyer activity**. Pasig is a solid secondary market, while Parañaque and Manila may require pricing or strategy adjustments for better performance.
 
-Launch online listings, promos, and open-house events before March to capture early momentum.
-
-3️⃣ Resource Allocation:
-
-Area	Property Type	Priority	Action
-Makati	Condo	🔥 High	Increase ad spend & listings
-Taguig	Condo	🔥 High	Expand inventory
-Quezon City	House	🔥 High	Promote family-oriented properties
-Pasig	House / Townhouse	⚡ Medium	Maintain presence, test incentives
-Paranaque / Manila	Mixed	⚙ Low	Reassess pricing or reposition market
-📊 Final Answer
-
-Invest and market more aggressively in Condos within Makati and Taguig, and Houses in Quezon City.
-These areas show the strongest sales performance, fastest inventory movement, and highest market demand, ensuring better returns in the next quarter.
