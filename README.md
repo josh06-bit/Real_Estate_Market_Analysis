@@ -73,5 +73,5 @@ Sales were strongest from **September** to **October**, with September hitting t
 
 ## 📊 Final Answer
 
-**Invest and market more aggressively in **Condos in Makati and Taguig and Houses in Quezon City**, as these areas show the **strongest demand, fastest sales movement**, and **highest buyer activity**. Pasig is a solid secondary market, while Parañaque and Manila may require pricing or strategy adjustments for better performance.
+**Invest and market more aggressively in Condos in Makati and Taguig and Houses in Quezon City**, as these areas show the **strongest demand, fastest sales movement**, and **highest buyer activity**. Pasig is a solid secondary market, while Parañaque and Manila may require pricing or strategy adjustments for better performance.
 
